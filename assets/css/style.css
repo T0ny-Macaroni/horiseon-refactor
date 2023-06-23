@@ -23,7 +23,7 @@ h1 {
 span .seo {
     color: #d9dcd6;
 }
-
+        /* Controls text displayed on the screen in large box  */
 ul {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+        /* Image in the middle of screen  */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+        /* Sidebar  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,8 +101,6 @@ p {
     text-align: center;
 }
 
-
-
 .benefit-lead img,
 .benefit-cost img,
 .benefit-brand img {
@@ -110,18 +109,7 @@ p {
     max-width: 150px;
 }
 
-    {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-    {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+        /* Main page info box  */
 .search-engine-optimization,
 .social-media-marketing,
 .online-reputation-management {
@@ -133,17 +121,11 @@ p {
     color: #ffffff;
 }
 
-
-
-
-
 .search-engine-optimization img,
 .social-media-marketing img,
 .online-reputation-management img {
     max-height: 200px;
 }
-
-
 
 .search-engine-optimization h2,
 .social-media-marketing h2,
@@ -151,9 +133,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
-
+        /* Footer  */
 footer {
     padding: 30px;
     clear: both;
