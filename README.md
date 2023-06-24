@@ -2,21 +2,26 @@
 
 ## Description
 
-This project is a code refactor for the Horiseon website homepage.   The purposes of this refactoring is to make the previous code more efficient, comprehensible and accessible.  This refactoring should also result in improved search engine optimization. The modification does not change the displayed styling of the page, only the underlying code.
+This project is a code refactor for the Horiseon website homepage.   The purposes of refactoring this code is to make it more efficient, comprehensible and accessible.  This refactoring should also result in improved search engine optimization. This modification left the Style and design of the webpage the same while only changing 
 
 ## Installation
 
 Upload index.html, license.txt, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
 
-The deployed website linked above was deployed using GitHub Pages.
-
 ![deployed page SS](./assets/images/Screencap.png)
+
+
+
+
 
 ## Usage
 
 Once Deployed the application should be viewable in traditional desktop browsers. Mobile and tablet devices have not yet been optimized for.
 
+Link to deployed website: https://t0ny-macaroni.github.io/horiseon-refactor/
+
 ## license
+
 
 MIT License
 
